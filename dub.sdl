@@ -1,0 +1,5 @@
+name "deem"
+description "Rewriting the Doom engine (idTech 1) in D, with enhancements"
+authors "laszl"
+copyright "Copyright © 2025, laszl"
+license "GPL-2.0-only"
